@@ -1,0 +1,9 @@
+#dashboard {
+  display: flex;
+  width: 1080px;
+  justify-content: space-between;
+}
+
+#dashboard, h3, h4, p {
+  color: white;
+}
